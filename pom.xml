@@ -13,6 +13,7 @@
         <module>MultiThreading</module>
         <module>Kafka</module>
         <module>DesignPattern</module>
+        <module>Annotation</module>
     </modules>
 
     <build>
